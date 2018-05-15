@@ -7,7 +7,7 @@ Créer une variable **nom** et l'initialiser avec la valeur de votre choix.  Aff
 
 ##Exercice 2
 Créer trois variables **nom** , **prenom** et **age** et les initialiser avec les valeurs de votre choix.  **Attention** age est de type entier.  Afficher leur contenu.
-
+3
 ##Exercice 3
 Créer une variable **km**. L'initialiser à 1. Afficher son contenu.  
 Changer sa valeur par 3. Afficher son contenu.  
